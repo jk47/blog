@@ -2,4 +2,4 @@
 
 ## Welcome to My Blog
 
-[First Blog Post](/posts/firstBlogPost.html)
+[First Blog Post](/jk47-blog/posts/firstBlogPost.html)
