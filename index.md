@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Hello, I'm John and this is my blog
 
-You can use the [editor on GitHub](https://github.com/jk47/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I live in Minneapolis and work for Target. I have a history in C# and .NET development but am focusing more into the Open Source world in recent months. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am especially passionate about agility within the software development process and the toolkits that developers use to accomplish their work. 
 
 ### Markdown
 
