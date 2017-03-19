@@ -2,4 +2,4 @@
 
 
 
-My blog is hosted on github via github pages. I am using one of the themes they provide out of the box. All the files are created as markdown and pages will deploy them on checkin. 
+This blog is hosted on github pages. It is using the Architect theme. All the files are created as markdown and deployed on checkin.
